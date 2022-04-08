@@ -14,5 +14,5 @@ PIL, opencv.
 Easy use of TensorBoard in Pytorch.  
 
 ## torchvision_transform.py & useful_transforms.py
-some useful transforms in the future using of Pytorch.  
+Some useful transforms in the future using of Pytorch.  
 Resize, crop, and so on.
