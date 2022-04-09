@@ -1,5 +1,5 @@
 # cc's Pytorch_tutorial
-recording for my own Pytorch-learning
+Record for my own Pytorch-learning
 ## About Dataset
 **dataset download here**   https://download.pytorch.org/tutorial/hymenoptera_data.zip
 
