@@ -7,7 +7,7 @@ Record for my own Pytorch-learning
 Null
 
 ## read_data.py
-about how to read images from computer into python
+About how to read images from computer into python
 PIL, opencv.
 
 ## tensorBoard.py
