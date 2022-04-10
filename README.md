@@ -16,3 +16,6 @@ Easy use of TensorBoard in Pytorch.
 ## torchvision_transform.py & useful_transforms.py
 Some useful transforms in the future using of Pytorch.  
 Resize, crop, and so on.
+
+## nn_Relu.py
+关注inplace参数，True:原地操作 False:默认值
